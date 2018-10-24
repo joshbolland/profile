@@ -140,3 +140,24 @@ a.spotify-button:hover {
 #social-media {
     padding: 8px;
 }
+
+#sidebar {
+    background-color: #242038;
+    position: fixed;
+    width: 100px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+
+#sidebar li {
+    font-size: 30px;
+    display: list-item;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-top: 50px;
+}
+
+#sidebar a {
+    color: #FCFFEB;
+}
