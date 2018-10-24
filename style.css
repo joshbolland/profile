@@ -119,6 +119,10 @@ a#linkedin-button:hover {
     color: #0473B3;
 }
 
+.spotify-button {
+    color: #1CD464;
+}
+
 a.spotify-button:hover {
     color: #1CBC54;
 }
