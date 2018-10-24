@@ -119,6 +119,10 @@ a#linkedin-button:hover {
     color: #0473B3;
 }
 
+a#github-button:hover {
+    color: #54BCEC;
+}
+
 .spotify-button {
     color: #1CD464;
 }
@@ -130,7 +134,7 @@ a.spotify-button:hover {
 
 .list-inline > li {
     display: inline-block;
-    padding: 0px 20px;
+    padding: 0px 11px;
 }
 
 #social-media {
