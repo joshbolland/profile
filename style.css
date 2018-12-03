@@ -78,7 +78,7 @@ li {
     background: white;
     padding: 20px;
     margin-bottom: 20px;
-    border-radius: 4px;
+    border-radius: 10px;
     box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
     text-align: center;
 }
