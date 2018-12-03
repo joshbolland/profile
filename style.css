@@ -96,49 +96,66 @@ li {
     font-weight: 400;
     padding: 10px;
     border-radius: 4px;
+    transition: all 0.2s ease;
 }
 
-a.btn-red:hover {
+.btn-red:hover {
     background-color: #bf2626;
     color: white;
+    transition: all 0.2s ease;
 }
 
-a#fb-button:hover {
-    color: #4464B4;
+#twitter-button {
+    transition: all 0.2s ease;
 }
 
-a#twitter-button:hover {
+#twitter-button:hover {
     color: #1C9CF4;
+    transition: all 0.2s ease;
 }
 
-a#instagram-button:hover {
-    color: #FA327A;
+#linkedin-button {
+    transition: all 0.2s ease;
 }
 
-a#linkedin-button:hover {
+#linkedin-button:hover {
     color: #0473B3;
+    transition: all 0.2s ease;
 }
 
-a#github-button:hover {
+#mail-button {
+  transition: all 0.2s ease;
+}
+
+#mail-button:hover {
+  color:  #DD5555;
+  transition: all 0.2s ease;
+}
+
+#github-button {
+    transition: all 0.2s ease;
+}
+
+#github-button:hover {
     color: #54BCEC;
+    transition: all 0.2s ease;
 }
 
 .spotify-button {
     color: #1CD464;
 }
 
-a.spotify-button:hover {
+.spotify-button:hover {
     color: #1CBC54;
-}
-
-
-.list-inline > li {
-    display: inline-block;
-    padding: 0px 11px;
 }
 
 #social-media {
     padding: 8px;
+}
+
+#social-media li {
+    display: inline-block;
+    padding: 0px 11px;
 }
 
 #sidebar {
